@@ -8,9 +8,9 @@ The only requirement to follow the files showed here is knowing about basics git
 
 ### 🔧 Installation
 
-- [Git](http://www.dropwizard.io/1.0.2/docs/)
-- [Node.js](https://maven.apache.org/)
-- [VS Code](https://rometools.github.io/rome/)
+- [Git](https://git-scm.com/downloads) 
+- [Node.js](https://nodejs.org/en/download)
+- [VS Code](https://code.visualstudio.com/download)
 
 ## ✒️ Autores
 
