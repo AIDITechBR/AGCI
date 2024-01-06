@@ -1,0 +1,19 @@
+{
+  "name": "agci",
+  "version": "1.0.0",
+  "description": "All the files here aren't a specific project. It has been used to study some configurations",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
